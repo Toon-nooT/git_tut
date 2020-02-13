@@ -1,2 +1,2 @@
 dim virus
-msgbox virus
+'msgbox virus
